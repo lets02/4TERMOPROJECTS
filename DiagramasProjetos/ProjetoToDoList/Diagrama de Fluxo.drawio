@@ -1,0 +1,133 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.10">
+  <diagram name="Página-1" id="qfSGnI1zLevXQ3ywGBLh">
+    <mxGraphModel dx="1216" dy="4001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4MCABvo-145ZixurHW2b-1" value="&amp;nbsp;Início&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-3410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-2" value="&lt;b&gt;DIAGRAMA DE FLUXO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-3492" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-3" value="Usuário Preenche&lt;div&gt;&amp;nbsp;Formulário de Cadastro  &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-3260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-5" value="&amp;nbsp;Validar Dados&amp;nbsp;&lt;div&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;&amp;nbsp; &amp;nbsp; do&amp;nbsp;&lt;/span&gt;Usuário&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-3110" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-6" value="Dados Válidos?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2962.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-7" value="Criar Novo Usuário no Sistema" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-8" value="Mostrar Erro e Solicitar Novo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-2820" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-9" value="Usuário Escolhe Grupo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-10" value="Repetir Cadastro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-2680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-11" value="Validar Grupo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-12" value="Grupo Válido?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-13" value="Associar Usuário ao Grupo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-14" value="Repetir Escolha de Grupo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-2120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-15" value="Mostrar Erro e Solicitar Novo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="-2260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-16" value="Confirmar Cadastro e Associação" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-2120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MCABvo-145ZixurHW2b-16" target="4MCABvo-145ZixurHW2b-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-18" value="FIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-1980" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-2030" as="sourcePoint" />
+            <mxPoint x="140" y="-1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2170" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.40999999999997" y="-2170" as="sourcePoint" />
+            <mxPoint x="379.40999999999997" y="-2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2310" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2450" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2590" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2730" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-2870" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="379.40999999999997" y="-2730" as="sourcePoint" />
+            <mxPoint x="379.40999999999997" y="-2690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-3160" as="sourcePoint" />
+            <mxPoint x="139.41" y="-3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-3020" as="sourcePoint" />
+            <mxPoint x="139.41" y="-2980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4MCABvo-145ZixurHW2b-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="139.41" y="-3310" as="sourcePoint" />
+            <mxPoint x="139.41" y="-3270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

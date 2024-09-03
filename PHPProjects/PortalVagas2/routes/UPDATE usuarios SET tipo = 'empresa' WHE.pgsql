@@ -1,0 +1,1 @@
+UPDATE usuarios SET tipo = 'empresa' WHERE id = 1
