@@ -99,6 +99,16 @@
 <p><img src="img/Diagrama de classe.png" width="500px">
 
 ### Prototipagem
+### Prototipagem de Baixa Qualidade
+<p><img src="img/baixa.png" width="500px">
+<p><img src="img/baixa2.png" width="500px">
+
+### Prototipagem de Média Qualidade
+<p><img src="img/prototipo-medio.png" width="500px">
+
+### Prototipagem de Alta Qualidade
+<p><img src="img/prototipo-alta.png" width="500px">
+
 ### WireFrame de Baixa Fidelidade
 
 
